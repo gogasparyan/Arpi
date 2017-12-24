@@ -1,5 +1,5 @@
 jQuery(document).ready(function () {
-    $("#info").hide();
+//    $("#info").hide();
     $("#arrow").click(function () {
         $("#info").slideToggle(500);
         $("#arrow img").toggleClass("rotate");
